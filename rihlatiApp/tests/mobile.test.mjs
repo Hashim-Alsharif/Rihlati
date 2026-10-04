@@ -2,6 +2,8 @@ import assert from 'node:assert/strict';
 import { test } from 'node:test';
 import { readFile } from 'node:fs/promises';
 import vm from 'node:vm';
+import { createRequire } from 'node:module';
+import { fileURLToPath } from 'node:url';
 const root=new URL('../',import.meta.url);
 const runtime=await readFile(new URL('src/runtime.js',root),'utf8');
 const mobile=await readFile(new URL('src/mobile.js',root),'utf8');
@@ -49,4 +51,15 @@ test('native config does not load a remote site or enable insecure release trans
 test('reader disables PDF scripting and uses local worker',async()=>{
   const reader=await readFile(new URL('src/pdf-viewer.js',root),'utf8');
   assert.match(reader,/enableScripting:false/);assert.match(reader,/isEvalSupported:false/);assert.match(reader,/pdf.worker.min.mjs/);
+});
+
+test('patched UUID dependency remains compatible with Xcode project generation',()=>{
+  const require=createRequire(import.meta.url);
+  const xcode=require('xcode');
+  const project=xcode.project(fileURLToPath(new URL('ios/App/App.xcodeproj/project.pbxproj',root)));
+  project.parseSync();
+  const ids=new Set(Array.from({length:100},()=>project.generateUuid()));
+  assert.equal(ids.size,100);
+  for(const id of ids)assert.match(id,/^[A-F0-9]{24}$/);
+  assert.match(project.writeSync(),/PBXProject/);
 });
