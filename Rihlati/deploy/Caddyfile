@@ -1,0 +1,16 @@
+# Review DNS (A AND AAAA) and validate with `caddy validate` before installation.
+# This is the first/only Internet-facing proxy; do not add a CDN without review.
+rihlati.me {
+    encode zstd gzip
+    reverse_proxy 127.0.0.1:8080 {
+        header_up X-Forwarded-For {remote_host}
+        header_up X-Forwarded-Proto {scheme}
+        header_up -Forwarded
+        header_up -X-Forwarded-Host
+        header_up -X-Forwarded-Port
+    }
+}
+
+www.rihlati.me {
+    redir https://rihlati.me{uri} permanent
+}

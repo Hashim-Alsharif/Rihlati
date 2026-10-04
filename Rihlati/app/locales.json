@@ -1,0 +1,1584 @@
+[
+  [
+    "A correction that improves the assistant",
+    "Pagwawasto para sa mas mahusay na katulong",
+    "Une correction pour améliorer l’assistant",
+    "ረዳቱን የሚያሻሽል እርማት",
+    "Marekebisho yanayoboresha msaidizi"
+  ],
+  [
+    "AI answer from the library",
+    "Sagot ng AI mula sa aklatan",
+    "Réponse de l’IA issue de la bibliothèque",
+    "ከቤተ መጻሕፍቱ የAI መልስ",
+    "Jibu la AI kutoka maktabani"
+  ],
+  [
+    "API key",
+    "API key",
+    "Clé API",
+    "የAPI ቁልፍ",
+    "Ufunguo wa API"
+  ],
+  [
+    "Access-controlled workspace",
+    "Lugar na may kontrol sa pag-access",
+    "Espace à accès contrôlé",
+    "መዳረሻው የሚቆጣጠር የሥራ ቦታ",
+    "Eneo la kazi lenye udhibiti wa ufikiaji"
+  ],
+  [
+    "Activate AI and enhanced voice",
+    "I-activate ang AI at pinahusay na boses",
+    "Activer l’IA et la voix améliorée",
+    "AI እና የተሻሻለ ድምጽ ያንቁ",
+    "Washa AI na sauti iliyoboreshwa"
+  ],
+  [
+    "Add a library reference",
+    "Magdagdag ng sanggunian",
+    "Ajouter une référence",
+    "ማጣቀሻ ያክሉ",
+    "Ongeza rejeo"
+  ],
+  [
+    "Add administrator",
+    "Magdagdag ng administrador",
+    "Ajouter un administrateur",
+    "አስተዳዳሪ ያክሉ",
+    "Ongeza msimamizi"
+  ],
+  [
+    "Add office staff",
+    "Magdagdag ng kawani",
+    "Ajouter un membre à l’équipe",
+    "የቢሮ ሠራተኛ ያክሉ",
+    "Ongeza mfanyakazi"
+  ],
+  [
+    "All",
+    "Lahat",
+    "Tous",
+    "ሁሉም",
+    "Zote"
+  ],
+  [
+    "All references",
+    "Lahat ng sanggunian",
+    "Toutes les références",
+    "ሁሉም ማጣቀሻዎች",
+    "Marejeo yote"
+  ],
+  [
+    "Answer language",
+    "Wika ng sagot",
+    "Langue de la réponse",
+    "የመልስ ቋንቋ",
+    "Lugha ya jibu"
+  ],
+  [
+    "Answer model",
+    "Modelo para sa sagot",
+    "Modèle de réponse",
+    "የመልስ ሞዴል",
+    "Modeli ya majibu"
+  ],
+  [
+    "Answer source",
+    "Sanggunian ng sagot",
+    "Source de la réponse",
+    "የመልስ ምንጭ",
+    "Chanzo cha jibu"
+  ],
+  [
+    "Approve corrections",
+    "Aprubahan ang pagwawasto",
+    "Approuver les corrections",
+    "እርማቶችን ያጽድቁ",
+    "Idhinisha marekebisho"
+  ],
+  [
+    "Approve for learning",
+    "Aprubahan para sa pagkatuto",
+    "Approuver pour l’apprentissage",
+    "ለመማር ያጽድቁ",
+    "Idhinisha kwa kujifunza"
+  ],
+  [
+    "Approve source",
+    "Aprubahan ang sanggunian",
+    "Approuver la source",
+    "ምንጭ ያጽድቁ",
+    "Idhinisha chanzo"
+  ],
+  [
+    "Approved for reuse",
+    "Aprubado para gamitin muli",
+    "Approuvé pour réutilisation",
+    "ለድጋሚ አጠቃቀም ጸድቋል",
+    "Imeidhinishwa kutumika tena"
+  ],
+  [
+    "Approved references",
+    "Mga aprubadong sanggunian",
+    "Références approuvées",
+    "የጸደቁ ማጣቀሻዎች",
+    "Marejeo yaliyoidhinishwa"
+  ],
+  [
+    "Archive reference",
+    "I-archive ang sanggunian",
+    "Archiver la référence",
+    "ማጣቀሻን በማህደር ያስቀምጡ",
+    "Hifadhi rejeo kwenye kumbukumbu"
+  ],
+  [
+    "Assign ticket",
+    "Italaga ang tiket",
+    "Attribuer la demande",
+    "ጥያቄ ይመድቡ",
+    "Kabidhi ombi"
+  ],
+  [
+    "Assign to the learner’s linked office",
+    "Italaga sa tanggapang kaugnay ng mag-aaral",
+    "Attribuer au bureau lié à l’apprenant",
+    "ከተማሪው ጋር ለተገናኘው ቢሮ ይመድቡ",
+    "Kabidhi kwa ofisi iliyounganishwa na mwanafunzi"
+  ],
+  [
+    "Assistant answer history",
+    "Kasaysayan ng mga sagot",
+    "Historique des réponses de l’assistant",
+    "የረዳቱ መልስ ታሪክ",
+    "Historia ya majibu ya msaidizi"
+  ],
+  [
+    "Awaiting a reply",
+    "Naghihintay ng sagot",
+    "En attente de réponse",
+    "መልስ በመጠባበቅ ላይ",
+    "Inasubiri jibu"
+  ],
+  [
+    "Awaiting service key",
+    "Naghihintay ng service key",
+    "Clé de service requise",
+    "የአገልግሎት ቁልፍ በመጠባበቅ ላይ",
+    "Inasubiri ufunguo wa huduma"
+  ],
+  [
+    "Book",
+    "Aklat",
+    "Livre",
+    "መጽሐፍ",
+    "Kitabu"
+  ],
+  [
+    "Book and page, or answer reference",
+    "Aklat at pahina, o sanggunian ng sagot",
+    "Livre et page, ou référence de la réponse",
+    "መጽሐፍ እና ገጽ፣ ወይም የመልስ ማጣቀሻ",
+    "Kitabu na ukurasa, au rejeo la jibu"
+  ],
+  [
+    "Change linked offices",
+    "Palitan ang kaugnay na tanggapan",
+    "Modifier les bureaux associés",
+    "የተገናኙ ቢሮዎችን ይቀይሩ",
+    "Badilisha ofisi zilizounganishwa"
+  ],
+  [
+    "Conversation",
+    "Pag-uusap",
+    "Conversation",
+    "ውይይት",
+    "Mazungumzo"
+  ],
+  [
+    "Correct answer",
+    "Tamang sagot",
+    "Réponse correcte",
+    "ትክክለኛ መልስ",
+    "Jibu sahihi"
+  ],
+  [
+    "Correct this answer",
+    "Iwasto ang sagot",
+    "Corriger cette réponse",
+    "ይህን መልስ ያርሙ",
+    "Sahihisha jibu hili"
+  ],
+  [
+    "Correction approved",
+    "Aprubado ang pagwawasto",
+    "Correction approuvée",
+    "እርማቱ ጸድቋል",
+    "Marekebisho yameidhinishwa"
+  ],
+  [
+    "Could not open Rihlati",
+    "Hindi mabuksan ang Rihlati",
+    "Impossible d’ouvrir Rihlati",
+    "ሪሕለቲን መክፈት አልተቻለም",
+    "Imeshindikana kufungua Rihlati"
+  ],
+  [
+    "Create administrator",
+    "Gumawa ng administrador",
+    "Créer un administrateur",
+    "አስተዳዳሪ ይፍጠሩ",
+    "Unda msimamizi"
+  ],
+  [
+    "Daily life",
+    "Pang-araw-araw na buhay",
+    "Vie quotidienne",
+    "ዕለታዊ ሕይወት",
+    "Maisha ya kila siku"
+  ],
+  [
+    "Every question reaches someone who can help",
+    "Bawat tanong ay may makatutulong",
+    "Chaque question trouve un soutien",
+    "እያንዳንዱ ጥያቄ ወደ ረዳት ይደርሳል",
+    "Kila swali linafika kwa anayeweza kusaidia"
+  ],
+  [
+    "Every question, a step forward",
+    "Bawat tanong, isang hakbang pasulong",
+    "Chaque question, un pas en avant",
+    "እያንዳንዱ ጥያቄ፣ ወደፊት አንድ እርምጃ",
+    "Kila swali, hatua mbele"
+  ],
+  [
+    "Explore your path",
+    "Tuklasin ang iyong landas",
+    "Explorer votre parcours",
+    "መንገድዎን ያስሱ",
+    "Chunguza njia yako"
+  ],
+  [
+    "Extracting text",
+    "Kinukuha ang teksto",
+    "Extraction du texte",
+    "ጽሑፍ በማውጣት ላይ",
+    "Inachambua maandishi"
+  ],
+  [
+    "For example: What is tawhid?",
+    "Halimbawa: Ano ang tawhid?",
+    "Exemple : qu’est-ce que le tawhid ?",
+    "ለምሳሌ፦ ተውሒድ ምንድን ነው?",
+    "Kwa mfano: Tawhid ni nini?"
+  ],
+  [
+    "From ticket",
+    "Mula sa tiket",
+    "Depuis une demande",
+    "ከጥያቄ",
+    "Kutoka kwenye ombi"
+  ],
+  [
+    "Getting started",
+    "Pagsisimula",
+    "Pour commencer",
+    "ለመጀመር",
+    "Kuanza"
+  ],
+  [
+    "How can I ask a specialist?",
+    "Paano ako magtatanong sa espesyalista?",
+    "Comment consulter un spécialiste ?",
+    "ባለሙያ እንዴት መጠየቅ እችላለሁ?",
+    "Ninawezaje kumuuliza mtaalamu?"
+  ],
+  [
+    "Indexed",
+    "Naka-index",
+    "Indexé",
+    "ተመዝግቧል",
+    "Imeorodheshwa"
+  ],
+  [
+    "Issue temporary password",
+    "Magbigay ng pansamantalang password",
+    "Émettre un mot de passe temporaire",
+    "ጊዜያዊ የይለፍ ቃል ይስጡ",
+    "Toa nenosiri la muda"
+  ],
+  [
+    "KNOWLEDGE WITH A SOURCE",
+    "KAALAMANG MAY SANGGUNIAN",
+    "UN SAVOIR SOURCÉ",
+    "ምንጭ ያለው እውቀት",
+    "MAARIFA YENYE CHANZO"
+  ],
+  [
+    "Key saved — test the connection",
+    "Na-save ang key — subukan ang koneksyon",
+    "Clé enregistrée — testez la connexion",
+    "ቁልፉ ተቀምጧል — ግንኙነቱን ይፈትሹ",
+    "Ufunguo umehifadhiwa — jaribu muunganisho"
+  ],
+  [
+    "Last activity",
+    "Huling aktibidad",
+    "Dernière activité",
+    "የመጨረሻ እንቅስቃሴ",
+    "Shughuli ya mwisho"
+  ],
+  [
+    "Learner",
+    "Mag-aaral",
+    "Apprenant",
+    "ተማሪ",
+    "Mwanafunzi"
+  ],
+  [
+    "Learner inquiries",
+    "Mga tanong ng mag-aaral",
+    "Questions des apprenants",
+    "የተማሪዎች ጥያቄዎች",
+    "Maswali ya wanafunzi"
+  ],
+  [
+    "Learner journey follow-up",
+    "Pagsubaybay sa paglalakbay ng mag-aaral",
+    "Suivi du parcours de l’apprenant",
+    "የተማሪው ጉዞ ክትትል",
+    "Ufuatiliaji wa safari ya mwanafunzi"
+  ],
+  [
+    "Learner sections",
+    "Mga seksyon ng mag-aaral",
+    "Rubriques de l’apprenant",
+    "የተማሪ ክፍሎች",
+    "Sehemu za mwanafunzi"
+  ],
+  [
+    "Learners followed",
+    "Mga mag-aaral na sinusubaybayan",
+    "Apprenants suivis",
+    "የሚከታተሉ ተማሪዎች",
+    "Wanafunzi wanaofuatiliwa"
+  ],
+  [
+    "Leave empty to keep the key",
+    "Iwang blangko para panatilihin ang key",
+    "Laissez vide pour conserver la clé",
+    "ቁልፉን ለማቆየት ባዶ ይተዉት",
+    "Acha wazi ili kuhifadhi ufunguo wa sasa"
+  ],
+  [
+    "Library available · activate AI in administrator settings",
+    "May aklatan · i-activate ang AI sa mga setting ng administrador",
+    "Bibliothèque disponible · activez l’IA dans les réglages administrateur",
+    "ቤተ መጻሕፍት አለ · AIን በአስተዳዳሪ ቅንብር ያንቁ",
+    "Maktaba inapatikana · washa AI katika mipangilio ya msimamizi"
+  ],
+  [
+    "Library excerpt",
+    "Sipi mula sa aklatan",
+    "Extrait de la bibliothèque",
+    "የቤተ መጻሕፍት ጥቅስ",
+    "Dondoo la maktaba"
+  ],
+  [
+    "Load page text",
+    "Ipakita ang teksto ng pahina",
+    "Charger le texte de la page",
+    "የገጽ ጽሑፍ ያሳዩ",
+    "Onyesha maandishi ya ukurasa"
+  ],
+  [
+    "Manage admins",
+    "Pamahalaan ang mga administrador",
+    "Gérer les administrateurs",
+    "አስተዳዳሪዎችን ያስተዳድሩ",
+    "Dhibiti wasimamizi"
+  ],
+  [
+    "Match",
+    "Tugma",
+    "Correspondance",
+    "ተዛማጅ",
+    "Ulinganifu"
+  ],
+  [
+    "Maximum file size is 80 MB.",
+    "Hanggang 80 MB ang file.",
+    "Taille maximale : 80 Mo.",
+    "ከፍተኛው የፋይል መጠን 80 MB ነው።",
+    "Ukubwa wa juu ni MB 80."
+  ],
+  [
+    "My worship",
+    "Aking pagsamba",
+    "Mon adoration",
+    "የእኔ አምልኮ",
+    "Ibada yangu"
+  ],
+  [
+    "No activity yet.",
+    "Wala pang aktibidad.",
+    "Aucune activité.",
+    "ገና እንቅስቃሴ የለም።",
+    "Bado hakuna shughuli."
+  ],
+  [
+    "No answers recorded yet.",
+    "Wala pang naitalang sagot.",
+    "Aucune réponse enregistrée.",
+    "ገና መልስ አልተመዘገበም።",
+    "Bado hakuna majibu yaliyorekodiwa."
+  ],
+  [
+    "No applications yet.",
+    "Wala pang aplikasyon.",
+    "Aucune demande d’inscription.",
+    "ገና ማመልከቻዎች የሉም።",
+    "Bado hakuna maombi ya usajili."
+  ],
+  [
+    "No clear speech detected. Please retry.",
+    "Walang malinaw na boses. Subukan muli.",
+    "Aucune parole claire détectée. Réessayez.",
+    "ግልጽ ንግግር አልተገኘም። እንደገና ይሞክሩ።",
+    "Hotuba haikusikika vizuri. Jaribu tena."
+  ],
+  [
+    "No inquiries yet.",
+    "Wala pang mga tanong.",
+    "Aucune question.",
+    "ገና ጥያቄዎች የሉም።",
+    "Bado hakuna maswali."
+  ],
+  [
+    "No matching results.",
+    "Walang katugmang resulta.",
+    "Aucun résultat correspondant.",
+    "ተዛማጅ ውጤት የለም።",
+    "Hakuna matokeo yanayolingana."
+  ],
+  [
+    "Office applications & management",
+    "Mga aplikasyon at pamamahala ng tanggapan",
+    "Demandes et gestion des bureaux",
+    "የቢሮ ማመልከቻዎች እና አስተዳደር",
+    "Maombi na usimamizi wa ofisi"
+  ],
+  [
+    "Office correction",
+    "Pagwawasto ng tanggapan",
+    "Correction du bureau",
+    "የቢሮ እርማት",
+    "Marekebisho ya ofisi"
+  ],
+  [
+    "Office links saved.",
+    "Na-save ang kaugnay na tanggapan.",
+    "Bureaux associés enregistrés.",
+    "የቢሮ ግንኙነቶች ተቀምጠዋል።",
+    "Uhusiano wa ofisi umehifadhiwa."
+  ],
+  [
+    "Open",
+    "Bukas",
+    "Ouvert",
+    "ክፍት",
+    "Wazi"
+  ],
+  [
+    "Open original",
+    "Buksan ang orihinal",
+    "Ouvrir l’original",
+    "ዋናውን ይክፈቱ",
+    "Fungua asili"
+  ],
+  [
+    "Open original page",
+    "Buksan ang orihinal na pahina",
+    "Ouvrir la page originale",
+    "ዋናውን ገጽ ይክፈቱ",
+    "Fungua ukurasa asili"
+  ],
+  [
+    "PDF page number",
+    "Numero ng pahina sa PDF",
+    "Numéro de page PDF",
+    "የPDF ገጽ ቁጥር",
+    "Nambari ya ukurasa wa PDF"
+  ],
+  [
+    "Password changed; other sessions revoked.",
+    "Napalitan ang password; natapos ang ibang session.",
+    "Mot de passe changé ; autres sessions révoquées.",
+    "የይለፍ ቃል ተቀይሯል፤ ሌሎች ክፍለ ጊዜዎች ተቋርጠዋል።",
+    "Nenosiri limebadilishwa; vipindi vingine vimefungwa."
+  ],
+  [
+    "Passwords do not match.",
+    "Hindi tugma ang mga password.",
+    "Les mots de passe ne correspondent pas.",
+    "የይለፍ ቃሎቹ አይዛመዱም።",
+    "Manenosiri hayalingani."
+  ],
+  [
+    "Pending",
+    "Naghihintay",
+    "En attente",
+    "በመጠባበቅ ላይ",
+    "Inasubiri"
+  ],
+  [
+    "Pending review",
+    "Naghihintay ng pagsusuri",
+    "En attente de révision",
+    "ግምገማ በመጠባበቅ ላይ",
+    "Inasubiri mapitio"
+  ],
+  [
+    "Platform settings",
+    "Mga setting ng plataporma",
+    "Réglages de la plateforme",
+    "የመድረክ ቅንብሮች",
+    "Mipangilio ya jukwaa"
+  ],
+  [
+    "Press Play to listen.",
+    "Pindutin ang Play para makinig.",
+    "Appuyez sur Lecture pour écouter.",
+    "ለማዳመጥ አጫውትን ይጫኑ።",
+    "Bonyeza Cheza ili kusikiliza."
+  ],
+  [
+    "Processing failed",
+    "Nabigo ang pagproseso",
+    "Échec du traitement",
+    "ማቀነባበር አልተሳካም",
+    "Uchakataji haukufaulu"
+  ],
+  [
+    "Profile saved.",
+    "Na-save ang profile.",
+    "Profil enregistré.",
+    "መገለጫ ተቀምጧል።",
+    "Wasifu umehifadhiwa."
+  ],
+  [
+    "Progress",
+    "Pag-unlad",
+    "Progression",
+    "እድገት",
+    "Maendeleo"
+  ],
+  [
+    "Propose correction",
+    "Magmungkahi ng pagwawasto",
+    "Proposer une correction",
+    "እርማት ያቅርቡ",
+    "Pendekeza marekebisho"
+  ],
+  [
+    "Propose this general answer for learning after review",
+    "Imungkahi ang pangkalahatang sagot para sa pagkatuto matapos suriin",
+    "Proposer cette réponse générale pour l’apprentissage après révision",
+    "ይህን አጠቃላይ መልስ ከግምገማ በኋላ ለመማር ያቅርቡ",
+    "Pendekeza jibu hili la jumla kwa kujifunza baada ya mapitio"
+  ],
+  [
+    "Question or search terms",
+    "Tanong o salitang hahanapin",
+    "Question ou termes de recherche",
+    "ጥያቄ ወይም የፍለጋ ቃላት",
+    "Swali au maneno ya utafutaji"
+  ],
+  [
+    "Question to correct",
+    "Tanong na iwawasto",
+    "Question à corriger",
+    "የሚታረም ጥያቄ",
+    "Swali la kusahihisha"
+  ],
+  [
+    "Queued",
+    "Nakapila",
+    "En file d’attente",
+    "በተራ ላይ",
+    "Ipo kwenye foleni"
+  ],
+  [
+    "RIHLATI · SIRAJ",
+    "RIHLATI · SIRAJ",
+    "RIHLATI · SIRAJ",
+    "ሪሕለቲ · ሲራጅ",
+    "RIHLATI · SIRAJ"
+  ],
+  [
+    "Recent review activity",
+    "Pinakabagong pagsusuri",
+    "Activité récente de révision",
+    "የቅርብ ጊዜ ግምገማ",
+    "Mapitio ya hivi karibuni"
+  ],
+  [
+    "Recording exceeds 20 MB.",
+    "Lampas 20 MB ang recording.",
+    "L’enregistrement dépasse 20 Mo.",
+    "ቀረጻው ከ20 MB በላይ ነው።",
+    "Rekodi imezidi MB 20."
+  ],
+  [
+    "Recording failed.",
+    "Nabigo ang pagrekord.",
+    "Échec de l’enregistrement.",
+    "ቀረጻ አልተሳካም።",
+    "Kurekodi hakukufaulu."
+  ],
+  [
+    "Reference",
+    "Sanggunian",
+    "Référence",
+    "ማጣቀሻ",
+    "Rejeo"
+  ],
+  [
+    "Reference added",
+    "Naidagdag ang sanggunian",
+    "Référence ajoutée",
+    "ማጣቀሻ ተጨምሯል",
+    "Rejeo limeongezwa"
+  ],
+  [
+    "Reference attribution",
+    "Impormasyon ng nag-upload",
+    "Attribution du dépôt des références",
+    "ማጣቀሻውን የሰቀለው",
+    "Utambulisho wa mpakiaji wa rejeo"
+  ],
+  [
+    "Reference file",
+    "File ng sanggunian",
+    "Fichier de référence",
+    "የማጣቀሻ ፋይል",
+    "Faili la rejeo"
+  ],
+  [
+    "Reference indexed",
+    "Na-index ang sanggunian",
+    "Référence indexée",
+    "ማጣቀሻ ተመዝግቧል",
+    "Rejeo limeorodheshwa"
+  ],
+  [
+    "Refresh status",
+    "I-refresh ang kalagayan",
+    "Actualiser l’état",
+    "ሁኔታውን ያድሱ",
+    "Onyesha hali mpya"
+  ],
+  [
+    "Registration requirements",
+    "Mga kailangan sa pagpaparehistro",
+    "Conditions d’inscription",
+    "የምዝገባ መስፈርቶች",
+    "Mahitaji ya usajili"
+  ],
+  [
+    "Reindex",
+    "I-index muli",
+    "Réindexer",
+    "እንደገና ይመዝግቡ",
+    "Orodhesha upya"
+  ],
+  [
+    "Rejected",
+    "Tinanggihan",
+    "Rejeté",
+    "ውድቅ ተደርጓል",
+    "Imekataliwa"
+  ],
+  [
+    "Require member email",
+    "Gawing kailangan ang email ng miyembro",
+    "Exiger l’e-mail du membre",
+    "የአባል ኢሜይል ይጠይቁ",
+    "Lazimisha barua pepe ya mwanachama"
+  ],
+  [
+    "Require member phone",
+    "Gawing kailangan ang telepono ng miyembro",
+    "Exiger le téléphone du membre",
+    "የአባል ስልክ ይጠይቁ",
+    "Lazimisha simu ya mwanachama"
+  ],
+  [
+    "Require office email",
+    "Gawing kailangan ang email ng tanggapan",
+    "Exiger l’e-mail du bureau",
+    "የቢሮ ኢሜይል ይጠይቁ",
+    "Lazimisha barua pepe ya ofisi"
+  ],
+  [
+    "Review extracted page text",
+    "Suriin ang nakuhang teksto",
+    "Réviser le texte extrait des pages",
+    "የወጣውን የገጽ ጽሑፍ ይገምግሙ",
+    "Kagua maandishi yaliyotolewa"
+  ],
+  [
+    "Review queue",
+    "Pila ng pagsusuri",
+    "File de révision",
+    "የግምገማ ተራ",
+    "Foleni ya mapitio"
+  ],
+  [
+    "Review the transcript, then send your question.",
+    "Suriin ang teksto, saka ipadala ang tanong.",
+    "Vérifiez la transcription, puis envoyez votre question.",
+    "ጽሑፉን ይገምግሙ፣ ከዚያ ጥያቄዎን ይላኩ።",
+    "Kagua maandishi, kisha tuma swali lako."
+  ],
+  [
+    "Reviewed learned answers",
+    "Mga sinuri at natutunang sagot",
+    "Réponses apprises et révisées",
+    "የተገመገሙ የተማሩ መልሶች",
+    "Majibu yaliyopitiwa na kujifunzwa"
+  ],
+  [
+    "Reviewed specialist answer",
+    "Sinuring sagot ng espesyalista",
+    "Réponse vérifiée du spécialiste",
+    "የተገመገመ የባለሙያ መልስ",
+    "Jibu la mtaalamu lililopitiwa"
+  ],
+  [
+    "Reviewed text",
+    "Sinuring teksto",
+    "Texte révisé",
+    "የተገመገመ ጽሑፍ",
+    "Maandishi yaliyopitiwa"
+  ],
+  [
+    "Reviewer name",
+    "Pangalan ng tagasuri",
+    "Nom du réviseur",
+    "የገምጋሚ ስም",
+    "Jina la mkaguzi"
+  ],
+  [
+    "Revoke approval",
+    "Bawiin ang pag-apruba",
+    "Révoquer l’approbation",
+    "ማጽደቅን ይሰርዙ",
+    "Batilisha idhini"
+  ],
+  [
+    "Save correction for review",
+    "I-save ang pagwawasto para sa pagsusuri",
+    "Enregistrer la correction pour révision",
+    "እርማቱን ለግምገማ ያስቀምጡ",
+    "Hifadhi marekebisho kwa mapitio"
+  ],
+  [
+    "Save office status",
+    "I-save ang kalagayan ng tanggapan",
+    "Enregistrer l’état du bureau",
+    "የቢሮ ሁኔታ ያስቀምጡ",
+    "Hifadhi hali ya ofisi"
+  ],
+  [
+    "Save requirements",
+    "I-save ang mga kailangan",
+    "Enregistrer les conditions",
+    "መስፈርቶችን ያስቀምጡ",
+    "Hifadhi mahitaji"
+  ],
+  [
+    "Save reviewed text and reindex",
+    "I-save ang sinuring teksto at i-index muli",
+    "Enregistrer le texte révisé et réindexer",
+    "የተገመገመውን ጽሑፍ ያስቀምጡና እንደገና ይመዝግቡ",
+    "Hifadhi maandishi yaliyopitiwa na uorodheshe upya"
+  ],
+  [
+    "Save settings",
+    "I-save ang mga setting",
+    "Enregistrer les réglages",
+    "ቅንብሮችን ያስቀምጡ",
+    "Hifadhi mipangilio"
+  ],
+  [
+    "Save user",
+    "I-save ang gumagamit",
+    "Enregistrer l’utilisateur",
+    "ተጠቃሚን ያስቀምጡ",
+    "Hifadhi mtumiaji"
+  ],
+  [
+    "Search and verify an answer",
+    "Maghanap at tiyakin ang sagot",
+    "Rechercher et vérifier une réponse",
+    "መልስ ይፈልጉ እና ያረጋግጡ",
+    "Tafuta na hakiki jibu"
+  ],
+  [
+    "Search sources",
+    "Maghanap sa sanggunian",
+    "Rechercher dans les sources",
+    "ምንጮችን ይፈልጉ",
+    "Tafuta kwenye vyanzo"
+  ],
+  [
+    "Send answer to learner",
+    "Ipadala ang sagot sa mag-aaral",
+    "Envoyer la réponse à l’apprenant",
+    "መልሱን ለተማሪው ይላኩ",
+    "Tuma jibu kwa mwanafunzi"
+  ],
+  [
+    "Some pages need OCR or review",
+    "May mga pahinang kailangan ng OCR o pagsusuri",
+    "Certaines pages nécessitent une OCR ou une révision",
+    "አንዳንድ ገጾች OCR ወይም ግምገማ ይፈልጋሉ",
+    "Baadhi ya kurasa zinahitaji OCR au mapitio"
+  ],
+  [
+    "Source language",
+    "Wika ng sanggunian",
+    "Langue de la source",
+    "የምንጭ ቋንቋ",
+    "Lugha ya chanzo"
+  ],
+  [
+    "Source, page, or specialist evidence",
+    "Sanggunian, pahina o patunay ng espesyalista",
+    "Source, page ou justification du spécialiste",
+    "ምንጭ፣ ገጽ ወይም የባለሙያ ማስረጃ",
+    "Chanzo, ukurasa au ushahidi wa mtaalamu"
+  ],
+  [
+    "Specialist answer",
+    "Sagot ng espesyalista",
+    "Réponse du spécialiste",
+    "የባለሙያ መልስ",
+    "Jibu la mtaalamu"
+  ],
+  [
+    "Specialist name",
+    "Pangalan ng espesyalista",
+    "Nom du spécialiste",
+    "የባለሙያ ስም",
+    "Jina la mtaalamu"
+  ],
+  [
+    "Specialist referral",
+    "Pagsangguni sa espesyalista",
+    "Orientation vers un spécialiste",
+    "ወደ ባለሙያ ማስተላለፍ",
+    "Rufaa kwa mtaalamu"
+  ],
+  [
+    "Specialist replied",
+    "Sumagot ang espesyalista",
+    "Le spécialiste a répondu",
+    "ባለሙያው መልሷል",
+    "Mtaalamu amejibu"
+  ],
+  [
+    "Specialist reply",
+    "Tugon ng espesyalista",
+    "Réponse du spécialiste",
+    "የባለሙያ ምላሽ",
+    "Jibu la mtaalamu"
+  ],
+  [
+    "Speech model",
+    "Modelo ng boses",
+    "Modèle vocal",
+    "የድምጽ ሞዴል",
+    "Modeli ya sauti"
+  ],
+  [
+    "Stage",
+    "Yugto",
+    "Étape",
+    "ደረጃ",
+    "Hatua"
+  ],
+  [
+    "Subject",
+    "Paksa",
+    "Sujet",
+    "ርዕስ",
+    "Mada"
+  ],
+  [
+    "Tell me about honesty",
+    "Sabihin sa akin ang tungkol sa katapatan",
+    "Parlez-moi de l’honnêteté",
+    "ስለ ታማኝነት ንገሩኝ",
+    "Nieleze kuhusu uaminifu"
+  ],
+  [
+    "Temporary password",
+    "Pansamantalang password",
+    "Mot de passe temporaire",
+    "ጊዜያዊ የይለፍ ቃል",
+    "Nenosiri la muda"
+  ],
+  [
+    "Temporary password — shown once",
+    "Pansamantalang password — isang beses ipinapakita",
+    "Mot de passe temporaire — affiché une seule fois",
+    "ጊዜያዊ የይለፍ ቃል — አንድ ጊዜ ብቻ ይታያል",
+    "Nenosiri la muda — linaonyeshwa mara moja"
+  ],
+  [
+    "Test AI connection",
+    "Subukan ang koneksyon ng AI",
+    "Tester la connexion IA",
+    "የAI ግንኙነት ይፈትሹ",
+    "Jaribu muunganisho wa AI"
+  ],
+  [
+    "Test Arabic voice",
+    "Subukan ang boses na Arabe",
+    "Tester la voix arabe",
+    "የአረብኛ ድምጽ ይፈትሹ",
+    "Jaribu sauti ya Kiarabu"
+  ],
+  [
+    "Test assistant",
+    "Subukan ang katulong",
+    "Tester l’assistant",
+    "ረዳቱን ይፈትሹ",
+    "Jaribu msaidizi"
+  ],
+  [
+    "Test failed.",
+    "Nabigo ang pagsubok.",
+    "Échec du test.",
+    "ሙከራው አልተሳካም።",
+    "Jaribio halikufaulu."
+  ],
+  [
+    "Ticket opened",
+    "Nabuksan ang tiket",
+    "Demande ouverte",
+    "ጥያቄ ተከፍቷል",
+    "Ombi limefunguliwa"
+  ],
+  [
+    "Transcribing your recording…",
+    "Ginagawang teksto ang recording…",
+    "Transcription de votre enregistrement…",
+    "ቀረጻዎን ወደ ጽሑፍ በመቀየር ላይ…",
+    "Inabadilisha rekodi yako kuwa maandishi…"
+  ],
+  [
+    "Transcription model",
+    "Modelo ng transkripsyon",
+    "Modèle de transcription",
+    "የጽሑፍ ቅየራ ሞዴል",
+    "Modeli ya unukuzi"
+  ],
+  [
+    "Upload and process",
+    "I-upload at iproseso",
+    "Importer et traiter",
+    "ይስቀሉና ያቀናብሩ",
+    "Pakia na uchakate"
+  ],
+  [
+    "Uploaded by",
+    "Nag-upload",
+    "Déposé par",
+    "የሰቀለው",
+    "Imepakiwa na"
+  ],
+  [
+    "Uploading…",
+    "Ina-upload…",
+    "Importation…",
+    "በመስቀል ላይ…",
+    "Inapakia…"
+  ],
+  [
+    "Users & permissions",
+    "Mga gumagamit at pahintulot",
+    "Utilisateurs et autorisations",
+    "ተጠቃሚዎች እና ፈቃዶች",
+    "Watumiaji na ruhusa"
+  ],
+  [
+    "View conversation context",
+    "Tingnan ang konteksto ng usapan",
+    "Voir le contexte de la conversation",
+    "የውይይቱን አውድ ይመልከቱ",
+    "Angalia muktadha wa mazungumzo"
+  ],
+  [
+    "Voice",
+    "Boses",
+    "Voix",
+    "ድምጽ",
+    "Sauti"
+  ],
+  [
+    "Well done. Your progress is saved.",
+    "Magaling. Na-save ang iyong pag-unlad.",
+    "Bravo. Votre progression est enregistrée.",
+    "ጎበዝ። እድገትዎ ተቀምጧል።",
+    "Vizuri. Maendeleo yako yamehifadhiwa."
+  ],
+  [
+    "What are the pillars of Islam?",
+    "Ano ang mga haligi ng Islam?",
+    "Quels sont les piliers de l’islam ?",
+    "የእስልምና መሠረቶች ምንድን ናቸው?",
+    "Nguzo za Uislamu ni zipi?"
+  ],
+  [
+    "What are the pillars of prayer?",
+    "Ano ang mga haligi ng salah?",
+    "Quels sont les piliers de la prière ?",
+    "የሶላት መሠረቶች ምንድን ናቸው?",
+    "Nguzo za swala ni zipi?"
+  ],
+  [
+    "What is Islam?",
+    "Ano ang Islam?",
+    "Qu’est-ce que l’islam ?",
+    "እስልምና ምንድን ነው?",
+    "Uislamu ni nini?"
+  ],
+  [
+    "What is fasting?",
+    "Ano ang pag-aayuno?",
+    "Qu’est-ce que le jeûne ?",
+    "ጾም ምንድን ነው?",
+    "Kufunga ni nini?"
+  ],
+  [
+    "What is the value of good character?",
+    "Ano ang halaga ng mabuting asal?",
+    "Quelle est la valeur du bon comportement ?",
+    "የመልካም ሥነ ምግባር ጠቀሜታ ምንድን ነው?",
+    "Thamani ya tabia njema ni nini?"
+  ],
+  [
+    "What would you like to ask the specialist?",
+    "Ano ang nais mong itanong sa espesyalista?",
+    "Que souhaitez-vous demander au spécialiste ?",
+    "ባለሙያውን ምን መጠየቅ ይፈልጋሉ?",
+    "Ungependa kumuuliza mtaalamu nini?"
+  ],
+  [
+    "Withdraw approval",
+    "Bawiin ang pag-apruba",
+    "Retirer l’approbation",
+    "ማጽደቅን ይመልሱ",
+    "Ondoa idhini"
+  ],
+  [
+    "YOUR NEXT STEP",
+    "IYONG SUSUNOD NA HAKBANG",
+    "VOTRE PROCHAINE ÉTAPE",
+    "ቀጣዩ እርምጃዎ",
+    "HATUA YAKO INAYOFUATA"
+  ],
+  [
+    "Your office team",
+    "Pangkat ng iyong tanggapan",
+    "L’équipe de votre bureau",
+    "የቢሮዎ ቡድን",
+    "Timu ya ofisi yako"
+  ],
+  [
+    "indexed passages",
+    "mga naka-index na sipi",
+    "passages indexés",
+    "የተመዘገቡ ክፍሎች",
+    "vifungu vilivyoorodheshwa"
+  ],
+  [
+    "of the path",
+    "ng landas",
+    "du parcours",
+    "ከመንገዱ",
+    "ya njia"
+  ],
+  [
+    "p.",
+    "p.",
+    "p.",
+    "ገጽ",
+    "uk."
+  ],
+  [
+    "pages",
+    "mga pahina",
+    "pages",
+    "ገጾች",
+    "kurasa"
+  ],
+  [
+    "pages need review",
+    "pahinang kailangang suriin",
+    "pages à réviser",
+    "ግምገማ የሚፈልጉ ገጾች",
+    "kurasa zinazohitaji mapitio"
+  ],
+  [
+    "passages",
+    "mga sipi",
+    "passages",
+    "ክፍሎች",
+    "vifungu"
+  ],
+  [
+    "references",
+    "mga sanggunian",
+    "références",
+    "ማጣቀሻዎች",
+    "marejeo"
+  ],
+  [
+    "references in your library",
+    "sanggunian sa iyong aklatan",
+    "références dans votre bibliothèque",
+    "ማጣቀሻዎች በቤተ መጻሕፍትዎ",
+    "marejeo kwenye maktaba yako"
+  ],
+  [
+    "A specialist needs to review your situation. I will open a ticket with your question and context.",
+    "Kailangang suriin ng espesyalista ang iyong kalagayan. Magbubukas ako ng tiket kasama ang iyong tanong at konteksto.",
+    "Un spécialiste doit examiner votre situation. J’ouvrirai une demande avec votre question et son contexte.",
+    "ባለሙያ ሁኔታዎን መገምገም አለበት። ጥያቄዎን ከአውዱ ጋር አቀርባለሁ።",
+    "Mtaalamu anahitaji kuchunguza hali yako. Nitafungua ombi lenye swali lako na muktadha."
+  ],
+  [
+    "API usage is billed to the project account. Audio is AI-generated, not a human recording or an authenticated recitation.",
+    "Sisingilin ang paggamit ng API sa account ng proyekto. Ang audio ay gawa ng AI, hindi recording ng tao o pinatunayang pagbigkas.",
+    "L’API est facturée au compte du projet. La voix est générée par IA, pas enregistrée par un humain ni une récitation authentifiée.",
+    "የAPI አጠቃቀም ክፍያ በፕሮጀክቱ መለያ ላይ ይከፈላል። ድምጹ በAI የተፈጠረ ነው፤ የሰው ቀረጻ ወይም የተረጋገጠ ንባብ አይደለም።",
+    "Matumizi ya API yanatozwa akaunti ya mradi. Sauti imetengenezwa na AI, si rekodi ya binadamu wala usomaji uliothibitishwa."
+  ],
+  [
+    "Archive this office and revoke access? Records are retained.",
+    "I-archive ang tanggapan at bawiin ang pag-access? Mananatili ang mga tala.",
+    "Archiver ce bureau et révoquer son accès ? Les données seront conservées.",
+    "ይህን ቢሮ በማህደር ያስቀምጡና መዳረሻውን ያቋርጡ? መዝገቦቹ ይቆያሉ።",
+    "Hifadhi ofisi hii na uondoe ufikiaji? Kumbukumbu zitabaki."
+  ],
+  [
+    "Archive this user and revoke their sessions?",
+    "I-archive ang gumagamit at tapusin ang mga session?",
+    "Archiver cet utilisateur et révoquer ses sessions ?",
+    "ይህን ተጠቃሚ በማህደር ያስቀምጡና ክፍለ ጊዜዎቹን ያቋርጡ?",
+    "Hifadhi mtumiaji huyu na ufunge vipindi vyake?"
+  ],
+  [
+    "Ask for a specialist from any answer, or open a ticket.",
+    "Humiling ng espesyalista mula sa anumang sagot, o magbukas ng tiket.",
+    "Demandez un spécialiste depuis une réponse ou ouvrez une demande.",
+    "ከማንኛውም መልስ ባለሙያ ይጠይቁ ወይም ጥያቄ ይክፈቱ።",
+    "Omba mtaalamu kutoka jibu lolote, au fungua ombi."
+  ],
+  [
+    "Other sessions are revoked after changing your password.",
+    "Matatapos ang ibang session pagkatapos palitan ang iyong password.",
+    "Les autres sessions seront révoquées après le changement de mot de passe.",
+    "የይለፍ ቃሉ ከተቀየረ በኋላ ሌሎች ክፍለ ጊዜዎች ይቋረጣሉ።",
+    "Vipindi vingine vitafungwa baada ya kubadilisha nenosiri."
+  ],
+  [
+    "8–128 characters, including an uppercase Latin letter (A–Z), a digit (0–9) and a special symbol such as !, @ or #.",
+    "8–128 character, na may malaking titik Latin (A–Z), numero (0–9) at espesyal na simbolo gaya ng !, @ o #.",
+    "8 à 128 caractères, avec une lettre latine majuscule (A–Z), un chiffre (0–9) et un symbole spécial comme !, @ ou #.",
+    "ከ8 እስከ 128 ቁምፊዎች፤ አንድ ትልቅ የላቲን ፊደል (A–Z)፣ ቁጥር (0–9) እና እንደ !፣ @ ወይም # ያለ ልዩ ምልክት ያካትቱ።",
+    "Vibambo 8–128, vikijumuisha herufi kubwa ya Kilatini (A–Z), tarakimu (0–9) na alama maalumu kama !, @ au #."
+  ],
+  [
+    "Change your temporary password before continuing. The primary admin must add email and phone first.",
+    "Palitan muna ang pansamantalang password. Kailangang idagdag muna ng pangunahing admin ang email at telepono.",
+    "Changez le mot de passe temporaire avant de continuer. L’admin principal doit d’abord ajouter son e-mail et son téléphone.",
+    "ከመቀጠልዎ በፊት ጊዜያዊውን የይለፍ ቃል ይቀይሩ። ዋናው አስተዳዳሪ መጀመሪያ ኢሜይልና ስልክ ማከል አለበት።",
+    "Badilisha nenosiri la muda kabla ya kuendelea. Msimamizi mkuu aongeze barua pepe na simu kwanza."
+  ],
+  [
+    "Compare the original page with its text. A reviewed correction is saved with reviewer attribution and immediately reindexed.",
+    "Ihambing ang orihinal na pahina sa teksto. Itinatala ang pagwawasto kasama ang tagasuri at agad na ini-index muli.",
+    "Comparez la page originale et son texte. La correction est attribuée au réviseur et immédiatement réindexée.",
+    "ዋናውን ገጽ ከጽሑፉ ጋር ያነጻጽሩ። እርማቱ ከገምጋሚው መረጃ ጋር ይቀመጣል እና ወዲያውኑ እንደገና ይመዘገባል።",
+    "Linganisha ukurasa asili na maandishi. Marekebisho yanahifadhiwa na utambulisho wa mkaguzi, kisha kuorodheshwa upya."
+  ],
+  [
+    "Confirm? The file and review history are retained.",
+    "Kumpirmahin? Mananatili ang file at kasaysayan ng pagsusuri.",
+    "Confirmer ? Le fichier et l’historique de révision sont conservés.",
+    "ያረጋግጡ? ፋይሉና የግምገማ ታሪኩ ይቆያሉ።",
+    "Thibitisha? Faili na historia ya mapitio vinabaki."
+  ],
+  [
+    "Contact platform administration for identity verification and a temporary password. Email and SMS delivery are not enabled until a provider is configured.",
+    "Makipag-ugnayan sa administrasyon para sa pagpapatunay ng pagkakakilanlan at pansamantalang password. Hindi pa aktibo ang email at SMS hangga’t walang provider.",
+    "Contactez l’administration pour vérifier votre identité et obtenir un mot de passe temporaire. L’envoi par e-mail et SMS attend la configuration d’un prestataire.",
+    "ማንነትዎን ለማረጋገጥ እና ጊዜያዊ የይለፍ ቃል ለማግኘት አስተዳደሩን ያነጋግሩ። ኢሜይልና SMS መላክ አቅራቢ እስኪዋቀር ድረስ አልተነቃም።",
+    "Wasiliana na utawala kuthibitisha utambulisho na kupata nenosiri la muda. Barua pepe na SMS hazijawezeshwa hadi mtoa huduma asanidiwe."
+  ],
+  [
+    "Correction saved for review. Approve it to enable reuse.",
+    "Na-save ang pagwawasto para suriin. Aprubahan bago gamitin muli.",
+    "Correction enregistrée pour révision. Approuvez-la avant réutilisation.",
+    "እርማቱ ለግምገማ ተቀምጧል። ለድጋሚ አጠቃቀም ያጽድቁት።",
+    "Marekebisho yamehifadhiwa kwa mapitio. Yaidhinishe ili kutumika tena."
+  ],
+  [
+    "Do you have another question, or would you like a specialist?",
+    "May iba ka pang tanong, o nais mong kausapin ang espesyalista?",
+    "Avez-vous une autre question ou souhaitez-vous consulter un spécialiste ?",
+    "ሌላ ጥያቄ አለዎት፣ ወይስ ባለሙያ ይፈልጋሉ?",
+    "Una swali jingine, au ungependa mtaalamu?"
+  ],
+  [
+    "Enhanced transcription requires activation in administrator settings.",
+    "Kailangang i-activate ng administrador ang pinahusay na transkripsyon.",
+    "La transcription améliorée doit être activée dans les réglages administrateur.",
+    "የተሻሻለ ቅየራ በአስተዳዳሪ ቅንብር መንቃት አለበት።",
+    "Unukuzi ulioboreshwa unahitaji kuwezeshwa na msimamizi."
+  ],
+  [
+    "Every excerpt links to its book and page. Reviewed specialist answers enrich the library.",
+    "Bawat sipi ay may link sa aklat at pahina. Pinayayaman ng sinuring sagot ng espesyalista ang aklatan.",
+    "Chaque extrait renvoie au livre et à sa page. Les réponses vérifiées des spécialistes enrichissent la bibliothèque.",
+    "እያንዳንዱ ጥቅስ ከመጽሐፉና ገጹ ጋር ይገናኛል። የተገመገሙ የባለሙያ መልሶች ቤተ መጻሕፍቱን ያበለጽጋሉ።",
+    "Kila dondoo linaunganisha kitabu na ukurasa wake. Majibu ya wataalamu yaliyopitiwa yanaimarisha maktaba."
+  ],
+  [
+    "Follow learners, support their questions, and improve the knowledge base.",
+    "Subaybayan ang mag-aaral, tugunan ang tanong, at pagbutihin ang kaalaman.",
+    "Suivre les apprenants, répondre à leurs questions et enrichir les connaissances.",
+    "ተማሪዎችን ይከታተሉ፣ ጥያቄዎቻቸውን ይደግፉ፣ እውቀቱን ያሻሽሉ።",
+    "Fuatilia wanafunzi, saidia maswali yao na boresha maarifa."
+  ],
+  [
+    "General replies can be proposed for learning. Review is required before reuse; personal rulings are not generalized.",
+    "Maaaring imungkahi ang pangkalahatang sagot para sa pagkatuto. Kailangang suriin bago gamitin muli; hindi inilalahat ang personal na hatol.",
+    "Les réponses générales peuvent être proposées pour l’apprentissage après révision. Les avis individuels ne sont pas généralisés.",
+    "አጠቃላይ መልሶች ለመማር ሊቀርቡ ይችላሉ። ከድጋሚ አጠቃቀም በፊት ግምገማ ያስፈልጋል፤ የግል ፍርዶች አይጠቃለሉም።",
+    "Majibu ya jumla yanaweza kupendekezwa kwa kujifunza baada ya mapitio. Hukumu za mtu binafsi hazitumiki kwa wote."
+  ],
+  [
+    "Have you verified the account owner’s identity and wish to revoke sessions and issue a temporary password?",
+    "Natiyak mo na ba ang pagkakakilanlan at nais tapusin ang mga session at magbigay ng pansamantalang password?",
+    "Avez-vous vérifié l’identité du titulaire et souhaitez-vous révoquer ses sessions et émettre un mot de passe temporaire ?",
+    "የመለያውን ባለቤት ማንነት አረጋግጠው ክፍለ ጊዜዎቹን ለማቋረጥ እና ጊዜያዊ የይለፍ ቃል ለመስጠት ይፈልጋሉ?",
+    "Umethibitisha utambulisho wa mwenye akaunti na unataka kufunga vipindi na kutoa nenosiri la muda?"
+  ],
+  [
+    "I could not find a reliable answer in the available references. I will open a specialist ticket for you.",
+    "Wala akong nakitang mapagkakatiwalaang sagot sa mga sanggunian. Magbubukas ako ng tiket para sa espesyalista.",
+    "Je n’ai pas trouvé de réponse fiable dans les références disponibles. J’ouvrirai une demande auprès d’un spécialiste.",
+    "በሚገኙት ማጣቀሻዎች ውስጥ የሚታመን መልስ አላገኘሁም። ለባለሙያ ጥያቄ እከፍትልዎታለሁ።",
+    "Sikupata jibu la kuaminika kwenye marejeo yaliyopo. Nitakufungulia ombi la mtaalamu."
+  ],
+  [
+    "I found related pages, but their scanned text has not been reviewed. To avoid quoting recognition errors, I will refer your question to a specialist. You can open the original source below.",
+    "May kaugnay na pahina ngunit hindi pa nasusuri ang tekstong mula sa scan. Upang maiwasan ang mali, isasangguni ko ang tanong sa espesyalista. Nasa ibaba ang orihinal.",
+    "Des pages correspondent, mais leur texte numérisé n’a pas été révisé. Pour éviter les erreurs de reconnaissance, je transmettrai votre question au spécialiste. L’original est accessible ci-dessous.",
+    "ተዛማጅ ገጾች አግኝቻለሁ፣ ግን ከምስል የወጣው ጽሑፍ አልተገመገመም። ስህተት ላለመጥቀስ ጥያቄዎን ወደ ባለሙያ አስተላልፋለሁ። ዋናውን ምንጭ ከታች መክፈት ይችላሉ።",
+    "Nimepata kurasa husika lakini maandishi ya skani hayajapitiwa. Kuepuka makosa ya utambuzi, nitampelekea mtaalamu swali lako. Unaweza kufungua asili hapa chini."
+  ],
+  [
+    "I found this related excerpt in the library:",
+    "Nakita ko ang kaugnay na siping ito sa aklatan:",
+    "J’ai trouvé cet extrait pertinent dans la bibliothèque :",
+    "ይህን ተዛማጅ ጥቅስ በቤተ መጻሕፍቱ አግኝቻለሁ፦",
+    "Nimepata dondoo hili husika maktabani:"
+  ],
+  [
+    "I will send your question and conversation context to a specialist.",
+    "Ipapadala ko ang iyong tanong at konteksto ng usapan sa espesyalista.",
+    "Je transmettrai votre question et le contexte au spécialiste.",
+    "ጥያቄዎን እና የውይይቱን አውድ ወደ ባለሙያ እልካለሁ።",
+    "Nitatuma swali lako na muktadha wa mazungumzo kwa mtaalamu."
+  ],
+  [
+    "Inspect library passages or test an assistant answer. This does not open tickets or send anything to a learner.",
+    "Suriin ang mga sipi o subukan ang sagot. Hindi ito magbubukas ng tiket o magpapadala sa mag-aaral.",
+    "Examinez les extraits ou testez une réponse. Cela n’ouvre aucune demande et n’envoie rien à l’apprenant.",
+    "ክፍሎችን ይመልከቱ ወይም መልስ ይፈትሹ። ይህ ጥያቄ አይከፍትም፣ ለተማሪም አይልክም።",
+    "Kagua vifungu au jaribu jibu. Hii haifungui maombi wala kutuma kwa mwanafunzi."
+  ],
+  [
+    "Learn through three levels and keep your progress between visits.",
+    "Matuto sa tatlong antas at mapanatili ang pag-unlad sa bawat pagbisita.",
+    "Apprenez en trois niveaux et conservez votre progression entre les visites.",
+    "በሦስት ደረጃዎች ይማሩ፣ እድገትዎንም በጉብኝቶች መካከል ያስቀምጡ።",
+    "Jifunze katika viwango vitatu na uhifadhi maendeleo kati ya ziara."
+  ],
+  [
+    "Learning adds documented, reviewed answers to the knowledge base. It does not automatically train model weights.",
+    "Idinadagdag ang dokumentado at sinuring sagot sa kaalaman. Hindi nito awtomatikong sinasanay ang mga parameter ng modelo.",
+    "L’apprentissage ajoute des réponses documentées et vérifiées à la base, sans entraîner automatiquement les poids du modèle.",
+    "መማር የተመዘገቡና የተገመገሙ መልሶችን ወደ እውቀት ያክላል። የሞዴል ክብደቶችን በራስ ሰር አያሰለጥንም።",
+    "Kujifunza huongeza majibu yenye marejeo na mapitio kwenye maarifa. Hakufundishi uzito wa modeli kiotomatiki."
+  ],
+  [
+    "Local dictation failed. Type your question or activate enhanced voice.",
+    "Nabigo ang lokal na diktasyon. I-type ang tanong o i-activate ang pinahusay na boses.",
+    "La dictée locale a échoué. Écrivez ou activez la voix améliorée.",
+    "የአካባቢ ቅየራ አልተሳካም። ጥያቄዎን ይጻፉ ወይም የተሻሻለ ድምጽ ያንቁ።",
+    "Unukuzi wa kifaa umeshindikana. Andika swali au washa sauti iliyoboreshwa."
+  ],
+  [
+    "Local speech is unavailable. Activate enhanced voice in administrator settings.",
+    "Walang lokal na boses. I-activate ang pinahusay na boses sa mga setting ng administrador.",
+    "Voix locale indisponible. Activez la voix améliorée dans les réglages administrateur.",
+    "የአካባቢ ድምጽ አይገኝም። የተሻሻለ ድምጽ በአስተዳዳሪ ቅንብር ያንቁ።",
+    "Sauti ya kifaa haipatikani. Washa sauti iliyoboreshwa katika mipangilio ya msimamizi."
+  ],
+  [
+    "Local voice depends on your browser; enhanced voice requires activation.",
+    "Depende sa browser ang lokal na boses; kailangang i-activate ang pinahusay na boses.",
+    "La voix locale dépend du navigateur ; la voix améliorée doit être activée.",
+    "የአካባቢ ድምጽ በአሳሹ ላይ ይመሠረታል፤ የተሻሻለ ድምጽ ማንቃት ያስፈልገዋል።",
+    "Sauti ya kifaa inategemea kivinjari; sauti iliyoboreshwa inahitaji kuwashwa."
+  ],
+  [
+    "Microphone access failed. Allow it in browser settings or upload a recording.",
+    "Hindi ma-access ang mikropono. Pahintulutan sa browser o mag-upload ng recording.",
+    "Accès au microphone refusé. Autorisez-le dans le navigateur ou importez un audio.",
+    "ማይክሮፎን መጠቀም አልተቻለም። በአሳሹ ቅንብር ይፍቀዱ ወይም ቀረጻ ይስቀሉ።",
+    "Ufikiaji wa maikrofoni umeshindikana. Ruhusu katika kivinjari au pakia rekodi."
+  ],
+  [
+    "Name and password are always required. These rules apply server-side to new registrations.",
+    "Laging kailangan ang pangalan at password. Ipinapatupad ng server ang mga tuntuning ito sa bagong pagpaparehistro.",
+    "Nom et mot de passe sont toujours obligatoires. Le serveur applique ces règles aux nouvelles inscriptions.",
+    "ስምና የይለፍ ቃል ሁልጊዜ ያስፈልጋሉ። እነዚህ ደንቦች ለአዲስ ምዝገባዎች በአገልጋዩ ይተገበራሉ።",
+    "Jina na nenosiri ni lazima daima. Seva hutekeleza sheria hizi kwa usajili mpya."
+  ],
+  [
+    "No approved offices yet; administration receives your tickets.",
+    "Wala pang aprubadong tanggapan; administrasyon ang tatanggap ng mga tiket.",
+    "Aucun bureau agréé ; l’administration reçoit vos demandes.",
+    "ገና የጸደቁ ቢሮዎች የሉም፤ ጥያቄዎችዎን አስተዳደሩ ይቀበላል።",
+    "Bado hakuna ofisi zilizoidhinishwa; utawala hupokea maombi yako."
+  ],
+  [
+    "No matching language voice is installed. Activate enhanced voice in administrator settings.",
+    "Walang naka-install na boses para sa wika. I-activate ang pinahusay na boses sa administrasyon.",
+    "Aucune voix adaptée n’est installée. Activez la voix améliorée dans l’administration.",
+    "ተዛማጅ የቋንቋ ድምጽ አልተጫነም። የተሻሻለ ድምጽ በአስተዳደሩ ያንቁ።",
+    "Hakuna sauti ya lugha hii iliyosakinishwa. Washa sauti iliyoboreshwa katika utawala."
+  ],
+  [
+    "Office corrections and specialist answers proposed for learning appear here.",
+    "Dito makikita ang pagwawasto ng tanggapan at sagot na iminungkahi para sa pagkatuto.",
+    "Les corrections du bureau et les réponses proposées pour l’apprentissage apparaissent ici.",
+    "የቢሮ እርማቶችና ለመማር የቀረቡ የባለሙያ መልሶች እዚህ ይታያሉ።",
+    "Marekebisho ya ofisi na majibu yaliyopendekezwa kwa kujifunza yanaonekana hapa."
+  ],
+  [
+    "Page correction saved and reindexed.",
+    "Na-save at na-index muli ang pagwawasto ng pahina.",
+    "Correction enregistrée et page réindexée.",
+    "የገጽ እርማት ተቀምጧልና እንደገና ተመዝግቧል።",
+    "Marekebisho ya ukurasa yamehifadhiwa na kuorodheshwa upya."
+  ],
+  [
+    "Page not found or processing is incomplete.",
+    "Hindi makita ang pahina o hindi pa tapos ang pagproseso.",
+    "Page introuvable ou traitement incomplet.",
+    "ገጹ አልተገኘም ወይም ማቀነባበሩ አልተጠናቀቀም።",
+    "Ukurasa haujapatikana au uchakataji haujakamilika."
+  ],
+  [
+    "Recording is unavailable here. Upload an audio recording instead.",
+    "Hindi magagamit ang pagrekord dito. Mag-upload na lang ng audio.",
+    "Enregistrement indisponible ici. Importez un fichier audio.",
+    "ቀረጻ እዚህ አይገኝም። በምትኩ የድምጽ ቀረጻ ይስቀሉ።",
+    "Kurekodi hakupatikani hapa. Pakia faili la sauti badala yake."
+  ],
+  [
+    "Reference saved and processing started. Refresh and review before approval.",
+    "Na-save ang sanggunian at nagsimula ang pagproseso. I-refresh at suriin bago aprubahan.",
+    "Référence enregistrée, traitement démarré. Actualisez et révisez avant approbation.",
+    "ማጣቀሻው ተቀምጦ ማቀነባበር ጀምሯል። ከማጽደቅ በፊት ያድሱና ይገምግሙ።",
+    "Rejeo limehifadhiwa na uchakataji umeanza. Sasisha na ukague kabla ya kuidhinisha."
+  ],
+  [
+    "Select all permissions for full access. The primary admin remains protected.",
+    "Piliin lahat ng pahintulot para sa buong access. Protektado pa rin ang pangunahing admin.",
+    "Sélectionnez toutes les autorisations pour un accès complet. L’admin principal reste protégé.",
+    "ለሙሉ መዳረሻ ሁሉንም ፈቃዶች ይምረጡ። ዋናው አስተዳዳሪ ይጠበቃል።",
+    "Chagua ruhusa zote kwa ufikiaji kamili. Msimamizi mkuu bado analindwa."
+  ],
+  [
+    "Select one to three offices. Each sees your progress and only tickets addressed to it.",
+    "Pumili ng isa hanggang tatlong tanggapan. Makikita ng bawat isa ang pag-unlad at mga tiket na para lamang dito.",
+    "Choisissez un à trois bureaux. Chacun voit votre progression et uniquement ses demandes.",
+    "ከአንድ እስከ ሦስት ቢሮዎች ይምረጡ። እያንዳንዱ እድገትዎንና ለእሱ የተላኩ ጥያቄዎችን ብቻ ያያል።",
+    "Chagua ofisi moja hadi tatu. Kila moja huona maendeleo yako na maombi yaliyoelekezwa kwake tu."
+  ],
+  [
+    "Select your supporting offices in My account.",
+    "Piliin ang sumusuportang tanggapan sa Aking account.",
+    "Choisissez vos bureaux d’accompagnement dans Mon compte.",
+    "የሚደግፉዎትን ቢሮዎች በመለያዎ ይምረጡ።",
+    "Chagua ofisi zinazokusaidia kwenye Akaunti yangu."
+  ],
+  [
+    "Settings saved. Test the connection to verify.",
+    "Na-save ang mga setting. Subukan ang koneksyon.",
+    "Réglages enregistrés. Testez la connexion.",
+    "ቅንብሮች ተቀምጠዋል። ለማረጋገጥ ግንኙነቱን ይፈትሹ።",
+    "Mipangilio imehifadhiwa. Jaribu muunganisho kuthibitisha."
+  ],
+  [
+    "Text extracted from a scanned page; the original is available.",
+    "Tekstong mula sa na-scan na pahina; makikita ang orihinal.",
+    "Texte extrait d’une page numérisée ; original disponible.",
+    "ከተቃኘ ገጽ የወጣ ጽሑፍ፤ ዋናው ይገኛል።",
+    "Maandishi yametolewa kwenye skani; asili inapatikana."
+  ],
+  [
+    "Text is extracted first. Review and approve the source before it is used in answers.",
+    "Kinukuha muna ang teksto. Suriin at aprubahan ang sanggunian bago gamitin sa sagot.",
+    "Le texte est d’abord extrait. Révisez et approuvez la source avant son utilisation.",
+    "ጽሑፍ መጀመሪያ ይወጣል። ምንጩ በመልሶች ከመጠቀሙ በፊት ይገምግሙና ያጽድቁ።",
+    "Maandishi hutolewa kwanza. Kagua na uidhinishe chanzo kabla ya kutumika kwenye majibu."
+  ],
+  [
+    "The key stays in the server-only .enviroment.local file and is excluded from Git. Questions, relevant excerpts and submitted audio are sent to OpenAI when used.",
+    "Nananatili ang key sa .enviroment.local ng server at hindi kasama sa Git. Ipinapadala sa OpenAI ang tanong, kaugnay na sipi at isinumiteng audio kapag ginagamit.",
+    "La clé reste dans .enviroment.local sur le serveur, hors Git. Questions, extraits pertinents et audios soumis sont envoyés à OpenAI lors de leur utilisation.",
+    "ቁልፉ በአገልጋይ .enviroment.local ፋይል ይቆያል፣ ከGit ይገለላል። ጥያቄዎች፣ ተዛማጅ ጥቅሶችና የቀረበ ድምጽ ሲጠቀሙ ወደ OpenAI ይላካሉ።",
+    "Ufunguo hubaki kwenye .enviroment.local ya seva na haujumuishwi Git. Maswali, dondoo husika na sauti iliyowasilishwa hutumwa OpenAI vinapotumika."
+  ],
+  [
+    "The model connection and test response succeeded.",
+    "Matagumpay ang koneksyon at sagot ng pagsubok.",
+    "Connexion au modèle et réponse de test réussies.",
+    "የሞዴል ግንኙነትና የሙከራ መልስ ተሳክተዋል።",
+    "Muunganisho wa modeli na jibu la majaribio vimefaulu."
+  ],
+  [
+    "The primary admin cannot be deleted, suspended or demoted.",
+    "Hindi maaaring burahin, suspindihin o bawasan ang tungkulin ng pangunahing admin.",
+    "L’admin principal ne peut être supprimé, suspendu ou rétrogradé.",
+    "ዋናው አስተዳዳሪ ሊሰረዝ፣ ሊታገድ ወይም ደረጃው ሊቀንስ አይችልም።",
+    "Msimamizi mkuu hawezi kufutwa, kusimamishwa au kushushwa cheo."
+  ],
+  [
+    "The reply is now in the learner conversation.",
+    "Nasa usapan na ng mag-aaral ang sagot.",
+    "La réponse figure maintenant dans la conversation de l’apprenant.",
+    "መልሱ አሁን በተማሪው ውይይት ውስጥ ነው።",
+    "Jibu sasa lipo kwenye mazungumzo ya mwanafunzi."
+  ],
+  [
+    "The supplied sources do not contain enough evidence for a reliable answer. I will refer your question to a specialist.",
+    "Walang sapat na patunay sa mga sanggunian para sa maaasahang sagot. Isasangguni ko sa espesyalista ang tanong.",
+    "Les sources ne contiennent pas assez d’éléments pour une réponse fiable. Je transmettrai la question au spécialiste.",
+    "የቀረቡት ምንጮች ለሚታመን መልስ በቂ ማስረጃ የላቸውም። ጥያቄዎን ወደ ባለሙያ አስተላልፋለሁ።",
+    "Vyanzo havina ushahidi wa kutosha kwa jibu la kuaminika. Nitapeleka swali lako kwa mtaalamu."
+  ],
+  [
+    "This browser needs server transcription activated. You can type your question now.",
+    "Kailangang i-activate ang transkripsyon sa server para sa browser na ito. Maaari mong i-type ang tanong.",
+    "Ce navigateur nécessite la transcription serveur. Vous pouvez écrire votre question.",
+    "ይህ አሳሽ የአገልጋይ ቅየራ ማንቃት ይፈልጋል። ጥያቄዎን አሁን መጻፍ ይችላሉ።",
+    "Kivinjari hiki kinahitaji unukuzi wa seva uwezeshwe. Unaweza kuandika swali sasa."
+  ],
+  [
+    "Ticket opened with your original question and answer context.",
+    "Nabuksan ang tiket kasama ang orihinal na tanong at konteksto ng sagot.",
+    "Demande ouverte avec votre question originale et le contexte de la réponse.",
+    "ጥያቄው ከመጀመሪያው ጥያቄዎና ከመልሱ አውድ ጋር ተከፍቷል።",
+    "Ombi limefunguliwa na swali lako asili pamoja na muktadha wa jibu."
+  ],
+  [
+    "Valid for 24 hours. Deliver securely to the account owner; a change is required.",
+    "May bisa nang 24 oras. Ibigay nang ligtas sa may-ari; kailangan itong palitan.",
+    "Valable 24 heures. Remettez-le au titulaire par un canal sûr ; il devra le changer.",
+    "ለ24 ሰዓታት ይሠራል። ለመለያው ባለቤት በደህንነት ያድርሱ፤ መቀየር ያስፈልጋል።",
+    "Halali kwa saa 24. Mfikishie mwenye akaunti kwa njia salama; lazima libadilishwe."
+  ],
+  [
+    "Welcome to Rihlati. What would you like to explore today: faith, purification, prayer, or another question?",
+    "Maligayang pagdating sa Rihlati. Ano ang nais mong matutuhan ngayon: pananampalataya, paglilinis, pagdarasal, o iba pang tanong?",
+    "Bienvenue sur Rihlati. Que souhaitez-vous explorer : la foi, la purification, la prière ou une autre question ?",
+    "ወደ ሪሕለቲ እንኳን ደህና መጡ። ዛሬ ስለ ምን መማር ይፈልጋሉ፦ እምነት፣ ጽዳት፣ ሶላት ወይስ ሌላ ጥያቄ?",
+    "Karibu Rihlati. Ungependa kujifunza nini leo: imani, twahara, swala au swali jingine?"
+  ],
+  [
+    "Would you like further clarification or a specialist?",
+    "Nais mo ba ng dagdag na paliwanag o espesyalista?",
+    "Souhaitez-vous une précision ou consulter un spécialiste ?",
+    "ተጨማሪ ማብራሪያ ወይም ባለሙያ ይፈልጋሉ?",
+    "Ungependa ufafanuzi zaidi au mtaalamu?"
+  ],
+  [
+    "You are welcome. Is there anything else I can help with, or would you like to speak to a specialist?",
+    "Walang anuman. May iba pa ba akong maitutulong, o nais mong makausap ang espesyalista?",
+    "Avec plaisir. Puis-je vous aider autrement, ou souhaitez-vous parler à un spécialiste ?",
+    "ምንም አይደለም። ሌላ ልረዳዎት የምችለው አለ፣ ወይስ ከባለሙያ ጋር መነጋገር ይፈልጋሉ?",
+    "Karibu. Kuna jambo jingine nikusaidie, au ungependa kuzungumza na mtaalamu?"
+  ],
+  [
+    "Your office is awaiting approval or is suspended. Account settings remain available.",
+    "Naghihintay ng pag-apruba o suspendido ang tanggapan. Magagamit pa rin ang mga setting ng account.",
+    "Votre bureau attend l’agrément ou est suspendu. Les réglages du compte restent accessibles.",
+    "ቢሮዎ ማጽደቅ እየጠበቀ ነው ወይም ታግዷል። የመለያ ቅንብሮች አሁንም ይገኛሉ።",
+    "Ofisi yako inasubiri idhini au imesimamishwa. Mipangilio ya akaunti bado inapatikana."
+  ],
+  [
+    "Your request reached the office. The reply will appear here and in chat.",
+    "Nakarating na ang kahilingan sa tanggapan. Makikita ang sagot dito at sa chat.",
+    "Votre demande est arrivée au bureau. La réponse apparaîtra ici et dans la conversation.",
+    "ጥያቄዎ ወደ ቢሮው ደርሷል። መልሱ እዚህና በውይይት ይታያል።",
+    "Ombi lako limefika ofisini. Jibu litaonekana hapa na kwenye mazungumzo."
+  ],
+  [
+    "Your tickets and specialist replies remain available across visits.",
+    "Mananatili ang mga tiket at sagot ng espesyalista sa bawat pagbisita.",
+    "Vos demandes et réponses des spécialistes restent disponibles entre les visites.",
+    "ጥያቄዎችዎና የባለሙያ መልሶች በጉብኝቶች መካከል ይቆያሉ።",
+    "Maombi yako na majibu ya wataalamu hubaki kati ya ziara."
+  ],
+  [
+    "Questions open the door to learning",
+    "Ang mga tanong ay simula ng pagkatuto",
+    "Les questions ouvrent la voie à l’apprentissage",
+    "ጥያቄዎች የመማር በር ይከፍታሉ",
+    "Maswali hufungua mlango wa kujifunza"
+  ],
+  [
+    "Support until you get an answer",
+    "Suporta hanggang matanggap ang sagot",
+    "Un soutien jusqu’à la réponse",
+    "መልስ እስኪያገኙ ድረስ ድጋፍ",
+    "Msaada hadi upate jibu"
+  ],
+  [
+    "Dawah & guidance office",
+    "Tanggapan ng dawah at paggabay",
+    "Bureau de prédication et d’orientation",
+    "የዳዕዋና መመሪያ ቢሮ",
+    "Ofisi ya daawa na mwongozo"
+  ],
+  [
+    "Tell me about",
+    "Sabihin sa akin ang tungkol sa",
+    "Parlez-moi de",
+    "ስለዚህ ንገሩኝ፦",
+    "Nieleze kuhusu"
+  ]
+]

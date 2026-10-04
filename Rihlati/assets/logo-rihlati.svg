@@ -1,0 +1,16 @@
+<svg viewBox="0 0 320 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">شعار تطبيق رِحلتي</title>
+  <defs>
+    <linearGradient id="rihlati-gradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0055ff"/>
+      <stop offset="100%" stop-color="#00f3ff"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(110 0)">
+    <path d="M65,15 A40,40 0 1,0 85,75 A32,32 0 1,1 55,25 Z" fill="url(#rihlati-gradient)"/>
+    <rect x="35" y="65" width="12" height="12" rx="2" fill="#fff"/>
+    <rect x="52" y="48" width="12" height="12" rx="2" fill="#fff"/>
+    <rect x="69" y="31" width="12" height="12" rx="2" fill="#fff"/>
+    <polyline points="41,65 41,54 58,54 58,37 75,37" fill="none" stroke="#00f3ff" stroke-width="2.5" stroke-linejoin="round"/>
+  </g>
+</svg>

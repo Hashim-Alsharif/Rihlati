@@ -1,0 +1,55 @@
+/* Pure-JS authorization state tests. No browser, network or live account. */
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const path=require('node:path');
+const vm=require('node:vm');
+const root=path.resolve(__dirname,'..');
+const state={user:{role:'admin',is_primary:1,permissions:[]},csrf:'test-csrf',authEpoch:0};
+const context=vm.createContext({state,document:{addEventListener(){}},stopAudio(){},render(){},tr:(ar,en)=>en,Error,console});
+vm.runInContext(fs.readFileSync(path.join(root,'app/accounts.js'),'utf8'),context);
+context.esc=value=>String(value).replaceAll('&','&amp;').replaceAll('"','&quot;');
+const newPassword=context.field('password','Password','password','',true);
+assert.match(newPassword,/minlength="8"/);
+assert.match(newPassword,/autocomplete="new-password"/);
+assert.match(newPassword,/uppercase Latin letter/);
+const passwordPattern=new RegExp('^(?:'+newPassword.match(/pattern="([^"]+)"/)[1]+')$','v');
+for(const secret of ['Abcdef1!','ABCDEFG1!','A1!'+'a'.repeat(125),'  Abcd1!  '])assert.equal(passwordPattern.test(secret),true,secret);
+for(const secret of ['Abcde1!','abcdef1!','Abcdefg!','Abcdef12','Abcdef1 ','عربي123!','Abcdef١!','Abcdef1ع','Abcdef1😀','A1!'+'a'.repeat(126)])assert.equal(passwordPattern.test(secret),false,secret);
+for(let code=33;code<=126;code++)if(!/[a-z0-9]/i.test(String.fromCharCode(code)))assert.equal(passwordPattern.test('Abcdef1'+String.fromCharCode(code)),true);
+const currentPassword=context.field('current_password','Current password','password','',true,'current');
+assert.doesNotMatch(currentPassword,/pattern=|minlength="8"|new-password/);
+assert.match(currentPassword,/autocomplete="current-password"/);
+// Check the real rendered sign-in and registration forms, without a browser or account writes.
+context.btn=()=>'';state.registration={member:{},office:{}};
+state.authMode='login';assert.doesNotMatch(context.authPage(),/pattern=|minlength="8"/);
+for(const mode of ['member','office']){state.authMode=mode;assert.match(context.authPage(),/minlength="8"/);assert.match(context.authPage(),/pattern=/);}
+assert.match(context.staffFields(),/minlength="8"/);
+assert.equal(context.adminTabAllowed('settings'),true);
+state.user={role:'office',office_owner:0};
+assert.equal(context.adminTabAllowed('settings'),false);
+assert.equal(context.adminTabAllowed('accounts'),false);
+assert.equal(context.adminTabAllowed('staff'),false);
+assert.equal(context.adminTabAllowed('tickets'),true);
+state.user={role:'admin',is_primary:0,permissions:['users']};
+assert.equal(context.adminTabAllowed('accounts'),true);
+assert.equal(context.adminTabAllowed('settings'),false);
+state.user={role:'member',office_ids:[],must_change_password:0};state.approvedOffices=[{id:'a'}];
+assert.equal(context.accountReady(),false);
+state.user.office_ids=['a'];assert.equal(context.accountReady(),true);
+state.search=[{content:'previous account fixture'}];state.evaluation={content:'private test'};state.draft='old draft';state.adminTab='settings';
+context.resetPrivateState();
+assert.equal(state.user,null);assert.equal(state.search.length,0);assert.equal(state.evaluation,null);assert.equal(state.draft,'');assert.equal(state.adminTab,'overview');
+const app=fs.readFileSync(path.join(root,'app/app.js'),'utf8');
+vm.runInContext(app.slice(app.indexOf('async function api('),app.indexOf('function toast(')),context);
+(async()=>{
+  let resolveRequest,options;
+  context.fetch=(_url,opts)=>{options=opts;return new Promise(resolve=>resolveRequest=resolve);};
+  const pending=context.api('/test',{value:1});
+  assert.equal(options.headers['X-CSRF-Token'],'test-csrf');
+  assert.equal(options.credentials,'same-origin');
+  state.authEpoch++;
+  resolveRequest({ok:true,status:200,json:async()=>({private:'old account',csrf:'old-csrf'})});
+  await assert.rejects(pending,/Session changed/);
+  assert.equal(state.csrf,'test-csrf');
+  console.log('Frontend authorization/state assertions passed; no network calls.');
+})().catch(error=>{console.error(error);process.exitCode=1;});

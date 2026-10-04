@@ -1,0 +1,7 @@
+{
+  "name": "rihlati-ocr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional local Arabic OCR worker for Rihlati — Team Siraj",
+  "dependencies": {"tesseract.js": "7.0.0"}
+}

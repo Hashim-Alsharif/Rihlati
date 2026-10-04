@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">رِحلتي</string>
+    <string name="title_activity_main">رِحلتي</string>
+    <string name="package_name">com.siraj.rihlati</string>
+    <string name="custom_url_scheme">com.siraj.rihlati</string>
+</resources>

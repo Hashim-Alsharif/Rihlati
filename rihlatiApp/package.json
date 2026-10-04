@@ -1,0 +1,34 @@
+{
+  "name": "rihlati-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rihlati mobile and tablet app — Team Siraj",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:native": "node scripts/build.mjs --native",
+    "test": "node --test tests/*.test.mjs",
+    "sync": "npm run build:native && cap sync && node scripts/configure-native.mjs",
+    "android": "cap open android",
+    "ios": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/browser": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/haptics": "^8.0.0",
+    "@capacitor/ios": "^8.0.0",
+    "@capacitor/keyboard": "^8.0.0",
+    "@fontsource-variable/readex-pro": "5.3.0",
+    "pdfjs-dist": "6.2.108"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0",
+    "esbuild": "^0.25.0",
+    "sharp": "^0.34.0"
+  }
+}

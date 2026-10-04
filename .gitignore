@@ -1,0 +1,22 @@
+# Both projects can share one repository. Original competition documents remain local.
+/*
+!/Rihlati/
+!/rihlatiApp/
+!/README.md
+!/AGENTS.md
+!/.gitignore
+**/.enviroment.local*
+**/.env
+**/.env.*
+!**/.env.example
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/*.sqlite3*
+**/*.keystore
+**/*.jks
+**/*.p12
+**/*.mobileprovision
+/.env.example
+**/*.pem
+**/*.key

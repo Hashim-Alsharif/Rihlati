@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="theme-color" content="#f4f8fc">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta http-equiv="Content-Security-Policy" content="__CSP__">
+  <title>رِحلتي — معك، خطوة بخطوة</title>
+  <link rel="icon" href="logo-rihlati.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="mobile.css">
+  <script src="app-config.js" defer></script>
+  <script src="native.js" defer></script>
+  <script src="runtime.js" defer></script>
+  <script src="i18n.js" defer></script>
+  <script src="accounts.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="mobile.js" defer></script>
+</head>
+<body class="rihlati-mobile">
+  <a class="skip-link" href="#app">تجاوز إلى المحتوى / Skip to content</a>
+  <div class="mobile-shell">
+    <header class="mobile-topbar">
+      <button class="brand" data-mobile-view="home" aria-label="رِحلتي — الرئيسية">
+        <span class="brand-mark"><img src="logo-rihlati.svg" alt="شعار رحلتي"></span>
+        <span><b>رِحلتي</b><small id="brand-sub">معك، خطوة بخطوة</small></span>
+      </button>
+      <div class="mobile-top-actions">
+        <select id="language-toggle" class="language-btn" aria-label="Language"><option value="ar">العربية</option><option value="en">English</option><option value="fil">Filipino</option><option value="fr">Français</option><option value="am">አማርኛ</option><option value="sw">Kiswahili</option></select>
+        <a class="web-link" href="/" data-open-web>الويب ↗</a>
+      </div>
+    </header>
+    <div id="connection-banner" class="connection-banner" role="status" hidden></div>
+    <nav id="mobile-nav" class="mobile-nav" aria-label="التنقل الرئيسي" hidden></nav>
+    <main id="app" tabindex="-1"><section class="mobile-loading"><img src="logo-rihlati.svg" alt=""><h1>رِحلتي</h1><p>نجهّز لك مساحة رحلتك…</p><span class="loading-track"></span></section></main>
+    <footer id="mobile-credit" class="mobile-credit">بناء وتطوير فريق سراج · جميع الحقوق محفوظة</footer>
+    <div class="compat-controls" hidden><button id="learner-nav"></button><button id="office-nav"></button><button id="profile-nav"></button><button id="logout-nav"></button></div>
+  </div>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="admin-web-dialog" class="mobile-dialog"><span class="dialog-emblem">↗</span><h2 id="admin-web-title"></h2><p id="admin-web-copy"></p><a class="primary" href="/" data-open-web id="admin-web-link"></a><button class="quiet" data-close-dialog id="admin-web-close"></button></dialog>
+  <dialog id="reader-dialog" class="reader-dialog"><div class="reader-toolbar"><button class="secondary" data-close-reader aria-label="Close">×</button><strong id="reader-title"></strong><button class="quiet" id="reader-prev" aria-label="Previous">‹</button><span id="reader-page" role="status"></span><button class="quiet" id="reader-next" aria-label="Next">›</button></div><div class="reader-content"><p id="reader-status" role="status"></p><canvas id="reader-canvas"></canvas></div></dialog>
+</body>
+</html>

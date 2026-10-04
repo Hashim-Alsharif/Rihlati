@@ -1,0 +1,14 @@
+{
+  "appId": "com.siraj.rihlati",
+  "appName": "رِحلتي",
+  "webDir": "www",
+  "backgroundColor": "#f4f8fc",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#f4f8fc", "allowMixedContent": false },
+  "ios": { "contentInset": "never", "backgroundColor": "#f4f8fc", "preferredContentMode": "mobile" },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "SystemBars": { "insetsHandling": "css", "style": "LIGHT" },
+    "Keyboard": { "resize": "body", "resizeOnFullScreen": true }
+  }
+}

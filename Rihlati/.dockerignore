@@ -1,0 +1,14 @@
+.git
+.venv
+.env*
+.enviroment.local
+data
+references
+uploads
+node_modules
+docs/archive
+docs/idea.docx
+docs/output
+docs/tmp
+deploy/*.local
+**/__pycache__

@@ -1,0 +1,3 @@
+# Python dependency verified in the current local environment.
+# sqlite3 and the HTTP server are part of Python's standard library.
+-r requirements.lock
