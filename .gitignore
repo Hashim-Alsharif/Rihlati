@@ -3,8 +3,10 @@
 !/Rihlati/
 !/rihlatiApp/
 !/README.md
+!/Site Information Guide and Flowchart.pdf
 !/AGENTS.md
 !/.gitignore
+!/.gitattributes
 **/.enviroment.local*
 **/.env
 **/.env.*

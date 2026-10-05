@@ -1,0 +1,2 @@
+# Preserve the PDF byte-for-byte; line-ending conversion corrupts PDF offsets.
+"Site Information Guide and Flowchart.pdf" binary
